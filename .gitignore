@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+
+# 大文件 / 二进制
+*.pptx
+*.xlsx
+*.pdf
+*.docx
+*.zip
+*.7z
+*.exe
+
+# 备份与临时
+*.bak_*
+备用/
+*.db-journal
+# 与本项目无关的旧文件（保留在磁盘，不进仓库）
+douban_top10_chart.png
+spider-答辩讲解稿.md
+一键运行.bat
+答辩前自检.bat
+precheck.py
+README-升级说明.md
+docs/out_*.txt
+docs/_render_shots.py
